@@ -1,9 +1,7 @@
 #!/bin/bash
-# Ternary example
+# Ternary example testing exit code of apt-get update
 # Usage:
-#        ./ternary.sh 0
-# or
-#        ./ternary.sh 1
+#        ./apt-ternary-test.sh
 
 # Set Variables
 arg_SWITCH="$1"
